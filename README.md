@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/">JanMayolas<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://github.com/">SkinnyDev<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="https://discord.com"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
   <a href="https://wa.me/34684700878"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
   <a href="mailto:mayolasjan@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
@@ -53,12 +53,12 @@ Soc el **Jan Mayolas**, estudiant d'**Enginyeria Informàtica**. M'apassiona el 
 ## 📊 Estadístiques de GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JanMayolas&show_icons=true&theme=dark&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JanMayolas&layout=compact&theme=dark&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SkinnyDev&show_icons=true&theme=dark&hide_border=true&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SkinnyDev&layout=compact&theme=dark&hide_border=true" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=EL_TEU_USUARI_GITHUB&theme=dark&hide_border=true" width="96%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SkinnyDev&theme=dark&hide_border=true" width="96%" />
 </p>
 
 ---
