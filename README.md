@@ -1,15 +1,15 @@
-# <p align="center">👋 Hola! Soc el Jan Mayolas</p>
+# <p align="center">👋 Hi! I'm Jan Mayolas</p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Jan%20Mayolas%20|%20Estudiant%20d'Enginyeria%20Inform%C3%A0tica&fontSize=30&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Jan%20Mayolas%20|%20Computer%20Engineering%20Student&fontSize=30&animation=fadeIn" width="100%" />
 </p>
 
 <p align="center">
-  <b>Estudiant d'Enginyeria Informàtica | Desenvolupador Software i Apassionat de la Tecnologia</b>
+  <b>Computer Engineering Student | Software Developer & Tech Enthusiast</b>
 </p>
 
 <p align="center">
-  <a href="https://github.com/JanMayolas"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://github.com/SkinnyDev"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="https://discord.com"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
   <a href="https://wa.me/34684700878"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
   <a href="mailto:mayolasjan@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
@@ -17,20 +17,20 @@
 
 ---
 
-## 🚀 Sobre mi
+## 🚀 About Me
 
-Soc el **Jan Mayolas**, estudiant d'**Enginyeria Informàtica**. M'apassiona el desenvolupament de software, la gestió de sistemes i l'aprenentatge d'eines tecnològiques avançades.
+I'm **Jan Mayolas**, a **Computer Engineering** student. I'm passionate about software development, systems administration, and learning advanced tech tools.
 
-- 🎓 Estudiat: **Enginyeria Informàtica**
-- 🔭 Actualment estic treballant en: **Un projecte anomenat "CoffeDocs", es un editor de text basat en googleDocs**
-- 💬 Pregunta'm sobre: **Python, entorns Linux, automatització o desenvolupament web**
-- ⚡ Curiositat: **M'encanta treballar amb la terminal i explorar distribucions de Linux**
+- 🎓 Studying: **Computer Engineering**
+- 🔭 Currently working on: **A text editor project called "CoffeeDocs", inspired by Google Docs**
+- 💬 Ask me about: **Python, Linux environments, automation, or web development**
+- ⚡ Fun fact: **I love working in the terminal and exploring Linux distributions**
 
 ---
 
-## 🛠️ Llenguatges i Tecnologies
+## 🛠️ Languages & Technologies
 
-### **Llenguatges de Programació**
+### **Programming Languages**
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
@@ -40,7 +40,7 @@ Soc el **Jan Mayolas**, estudiant d'**Enginyeria Informàtica**. M'apassiona el 
   <img src="https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
 </p>
 
-### **Sistemes, Eines i Control de Versions**
+### **Systems, Tools & Version Control**
 <p>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
@@ -50,19 +50,19 @@ Soc el **Jan Mayolas**, estudiant d'**Enginyeria Informàtica**. M'apassiona el 
 
 ---
 
-## 📊 Estadístiques de GitHub
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=JanMayolas&show_icons=true&theme=dark&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=JanMayolas&layout=compact&theme=dark&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=SkinnyDev&show_icons=true&theme=dark&hide_border=true&count_private=true" width="48%" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=SkinnyDev&layout=compact&theme=dark&hide_border=true" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JanMayolas&theme=dark&hide_border=true" width="96%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SkinnyDev&theme=dark&hide_border=true" width="96%" />
 </p>
 
 ---
 
 <p align="center">
-  <i>Gràcies per visitar el meu perfil! 🚀</i>
+  <i>Thanks for visiting my profile! 🚀</i>
 </p>
