@@ -1,16 +1,67 @@
-## Hi there 👋
+# <p align="center">👋 Hola! Soc el Jan Mayolas</p>
 
-<!--
-**JanMayolas/JanMayolas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Jan%20Mayolas%20|%20Estudiant%20d'Enginyeria%20Inform%C3%A0tica&fontSize=30&animation=fadeIn" width="100%" />
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <b>Estudiant d'Enginyeria Informàtica | Desenvolupador Software i Apassionat de la Tecnologia</b>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <a href="https://github.com/">JanMayolas<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/EL_TEU_USUARI_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:EL_TEU_CORREU@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
+
+---
+
+## 🚀 Sobre mi
+
+Soc el **Jan Mayolas**, estudiant d'**Enginyeria Informàtica**. M'apassiona el desenvolupament de software, la gestió de sistemes i l'aprenentatge d'eines tecnològiques avançades.
+
+- 🎓 Estudiat: **Enginyeria Informàtica**
+- 🔭 Actualment estic treballant en: **[Projectes personals o de la universitat]**
+- 💬 Pregunta'm sobre: **Python, entorns Linux, automatització o desenvolupament web**
+- ⚡ Curiositat: **M'encanta treballar amb la terminal i explorar distribucions de Linux**
+
+---
+
+## 🛠️ Llenguatges i Tecnologies
+
+### **Llenguatges de Programació**
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+</p>
+
+### **Sistemes, Eines i Control de Versions**
+<p>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenSSH-000000?style=for-the-badge&logo=open-ssh&logoColor=white" />
+</p>
+
+---
+
+## 📊 Estadístiques de GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=EL_TEU_USUARI_GITHUB&show_icons=true&theme=dark&hide_border=true&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EL_TEU_USUARI_GITHUB&layout=compact&theme=dark&hide_border=true" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=EL_TEU_USUARI_GITHUB&theme=dark&hide_border=true" width="96%" />
+</p>
+
+---
+
+<p align="center">
+  <i>Gràcies per visitar el meu perfil! 🚀</i>
+</p>
